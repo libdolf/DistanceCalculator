@@ -2,7 +2,7 @@
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
-[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://raw.githubusercontent.com/libdolf/DistanceCalculator/master/LICENSE)
 
 
 Esta é uma API simples que permite calcular a distância entre dois pontos geográficos representados por suas coordenadas de latitude e longitude. Além disso, a API gera um link para o Google Maps com a rota entre os dois pontos.
