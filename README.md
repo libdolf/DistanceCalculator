@@ -5,7 +5,7 @@
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://raw.githubusercontent.com/libdolf/DistanceCalculator/master/LICENSE)
 
 
-Esta é uma API simples que permite calcular a distância entre dois pontos geográficos representados por suas coordenadas de latitude e longitude. Além disso, a API gera um link para o Google Maps com a rota entre os dois pontos.
+Esta é uma API simples que permite calcular a distância entre dois pontos geográficos representados por suas coordenadas de latitude e longitude. Além disso, a API gera um link para o Google Maps com a rota entre os dois pontos usando a fórmula Haversine.
 
 ## Endpoint
 
